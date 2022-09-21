@@ -25,6 +25,10 @@
 - Polymorphism
 
 <h2 align="center"> 
-    Diagram 
+    :sparkles:Diagram:sparkles: 
 </h2>
 <img src="assets/diagram.drawio.svg"/>
+
+<div align="center">
+    <h2>:sparkles:Output:sparkles:</h2>
+</div>
