@@ -31,4 +31,5 @@
 
 <div align="center">
     <h2>:sparkles:Output:sparkles:</h2>
+    <img src="assets/output.png"/>
 </div>
