@@ -27,3 +27,4 @@
 <h2 align="center"> 
     Diagram 
 </h2>
+<img src="assets/diagram.drawio.svg"/>
